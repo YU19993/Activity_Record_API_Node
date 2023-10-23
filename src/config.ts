@@ -6,5 +6,5 @@ export const dbConfig = {
   port: 3306,
   database: 'quest',
   username: 'root',
-  password: 'Ms3456*3'
+  password: '' 
 };
